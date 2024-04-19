@@ -57,29 +57,6 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  - **Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**
    - Xu, Yilun and Tong, Shangyuan and Jaakkola, Tommi. *ICLR 2023* [[pdf]](https://arxiv.org/abs/2302.00670) [[code]](https://github.com/Newbeeer/stf)
  
-***Noise Scale Designing***
- - **Improved denoising diffusion probabilistic models**
-    - Nichol, Alexander Quinn and Dhariwal, Prafulla. *PMLR 2021* [[pdf]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
-
- - **Noise estimation for generative diffusion models**
-    - San-Roman, Robin and Nachmani, Eliya and Wolf, Lior. *Arxiv 2021* [[pdf]](https://arxiv.org/abs/2104.02600)
-
- - **Fast Sampling of Diffusion Models with Exponential Integrator**
-    - Zhang, Qinsheng and Chen, Yongxin. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2204.13902) [[code]](https://github.com/qsh-zh/deis)
-
- - **Variational diffusion models**
-    - Kingma, Diederik and Salimans, Tim and Poole, Ben and Ho, Jonathan. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.00630) [[code]](https://github.com/google-research/vdm)
-
- - **Elucidating the Design Space of Diffusion-Based Generative Models**
-   - Karras, Tero and Aittala, Miika and Aila, Timo and Laine, Samuli. *NeurIPS 2022* [[pdf]](https://arxiv.org/abs/2206.00364) [[code]](https://github.com/NVlabs/edm)
- 
-***Data Distribution Replace***
- - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
-    - Bansal, Arpit and Borgnia, Eitan and Chu, Hong-Min and Li, Jie S. and Kazemi, Hamid and Huang, Furong and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom. *Arxiv 2022* [[pdf]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/cold-diffusion-models)
- 
- - **Structured denoising diffusion models in discrete state-spaces**
-    - Austin, Jacob and Johnson, Daniel D and Ho, Jonathan and Tarlow, Daniel and van den Berg, Rianne. *NIPS 2021* [[pdf]](https://arxiv.org/abs/2107.03006) [[code]](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)
-
 
 #### 1.1.2 Training-Free Sampling
 ***Analytical Method***
