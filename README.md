@@ -111,7 +111,6 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 ### 1.3 Speed-up-timestep
 #### 1.3.1 Optimized Structural Efficiency
-*Acceleration Mixture* 
 - **Learning to Efficiently Sample from Diffusion Probabilistic Models**
     - Daniel Watson, Jonathan Ho, Mohammad Norouzi, William Chan. *Arixv 2021* [[pdf]](https://arxiv.org/abs/2106.03802) 
 
