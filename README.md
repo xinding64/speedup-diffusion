@@ -1,8 +1,6 @@
 ## Table of Contents
 - [0. Overview](#0-Overview)
 - [1. Methodology Improvement](#1-Methodology-Improvement)
-  <!-- - [Variational Gap Optimization](#Variational-Gap-Optimization) -->
-  <!-- - [Dimension Deduction](#Dimension-Deduction) -->
   - [1.1 Optimized Sampling Efficiency](#11-Speed-up-sample)
     - [1.1.1 Training Scheme](#111-Training-Scheme)
     - [1.1.2 Training-Free Sampling](#112-Training-Free-Sampling)
