@@ -95,7 +95,6 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 ### 1.2 Speed-up-Structural
 #### 1.2.1 Optimized Structural Efficiency
-*Acceleration Mixture* 
 - **Structural pruning for diffusion models**
     - Gongfan Fang, Xinyin Ma, and Xinchao Wang. *In Advances in Neural Information Processing Systems, 2023* [[pdf]](https://arxiv.org/abs/2305.10924) 
 
@@ -110,8 +109,6 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 - **Diffusion normalizing flow**
     - Zhang, Qinsheng and Chen, Yongxin. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2110.07579) [[code]](https://github.com/qsh-zh/DiffFlow) 
-
-
 
 ### 1.3 Speed-up-timestep
 #### 1.3.1 Optimized Structural Efficiency
