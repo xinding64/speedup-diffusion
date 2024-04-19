@@ -108,6 +108,12 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 
 - **Diffusion normalizing flow**
     - Zhang, Qinsheng and Chen, Yongxin. *NIPS 2021*. [[pdf]](https://arxiv.org/abs/2110.07579) [[code]](https://github.com/qsh-zh/DiffFlow) 
+- **Early exiting for accelerated inference in diffusion models**
+    - Taehong Moon, Moonseok Choi, EungGu Yun, Jongmin Yoon, Gayoung Lee, and Juho Lee. *ICML 2023*. [[pdf]]([https://arxiv.org/abs/2110.07579](https://icml.cc/virtual/2023/28071)) 
+
+
+
+
 
 ### 1.3 Speed-up-timestep
 #### 1.3.1 Optimized Structural Efficiency
