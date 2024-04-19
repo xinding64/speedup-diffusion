@@ -111,6 +111,8 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
 - **Early exiting for accelerated inference in diffusion models**
     - Taehong Moon, Moonseok Choi, EungGu Yun, Jongmin Yoon, Gayoung Lee, and Juho Lee. *ICML 2023*. [[pdf]]([https://arxiv.org/abs/2110.07579](https://icml.cc/virtual/2023/28071)) 
 
+- **Deediff: Dynamic uncertainty-aware early exiting for accelerating diffusion model generation.**
+    - Shengkun Tang, Yaqing Wang, Caiwen Ding, Yi Liang, Yao Li, and Dongkuan Xu. *arXiv 2023*. [[pdf]]([https://arxiv.org/pdf/2201.00308](https://arxiv.org/abs/2309.17074))
 
 
 
