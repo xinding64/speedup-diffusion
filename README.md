@@ -2,8 +2,8 @@
 - [0. Overview](#0-Overview)
 - [1. Methodology Improvement](#1-Methodology-Improvement)
   - [1.1 Optimized Sampling Efficiency](#11-Speed-up-sample)
-    - [1.1.1 Training Scheme](#111-Training-Scheme)
-    - [1.1.2 Training-Free Sampling](#112-Training-Free-Sampling)
+    - [1.1.1 Training Scheme](#111-Training-Scheme)[Knowledge DIstillation,Diffusion Scheme Learning]
+    - [1.1.2 Training-Free Sampling](#112-Training-Free-Sampling)[Implicit Sample,Differential Equation Solver Sample,Dynamic Programming Adjustment]
   - [1.2 Optimized Sampling Efficiency](#12-Speed-up-Structural)
     - [1.2.1 Optimized Structural Efficiency](#121-Mixed-Modeling)
   - [1.3 Optimized timestep Efficiency](#13-Speed-up-timestep)
@@ -57,10 +57,6 @@ Nowadays, the main concern of the diffusion model is to speed up its speed and r
  
 
 #### 1.1.2 Training-Free Sampling
-***Analytical Method***
- - **Analytic-dpm: an analytic estimate of the optimal reverse variance in diffusion probabilistic models**
-    - Bao, Fan and Li, Chongxuan and Zhu, Jun and Zhang, Bo. *Arxiv 2022*. [[pdf]](https://arxiv.org/abs/2201.06503) [[code]](https://github.com/baofff/Analytic-DPM)
-
 ***Implicit Sampler***
  - **Denoising Diffusion Implicit Models**
     - Song, Jiaming and Meng, Chenlin and Ermon, Stefano. *ICLR 2020*. [[pdf]](https://arxiv.org/abs/2010.02502) [[code]](https://github.com/ermongroup/ddim)
